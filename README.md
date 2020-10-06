@@ -1,1 +1,3 @@
-lordcidiak.github.io/html/
+Personal Web Page
+
+lordcidiak.github.io
